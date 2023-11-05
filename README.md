@@ -6,7 +6,7 @@ Welcome to the Weather Application! This project is a web-based application that
 
 ## Live Demo
 
-[Live Demo](https://your-weather-app-demo-url.com)
+[Live Demo](https://weatherapp-s.netlify.app/)
 
 ## Features
 
@@ -29,7 +29,7 @@ Welcome to the Weather Application! This project is a web-based application that
 To run the Weather Application locally, follow these steps:
 
 1. Clone the repository:
-        git clone : https://github.com/sakshi0704/weather-application.git
+      (https://github.com/Sakshi0704/WeatherAPP-s/tree/main)
 
 3. Open the project in your preferred code editor.
 
@@ -48,6 +48,10 @@ To run the Weather Application locally, follow these steps:
 5. Enjoy accessing real-time weather information for your chosen location!
 
 ## Acknowledgments
-    Thank you for visiting the Weather Application repository! If you have any questions or suggestions, please feel free to reach out to us through the contact information provided in the repository.
+Thank you for visiting the Weather Application repository! If you have any questions or suggestions, please feel free to reach out to us through the contact information provided in the repository.
 
+<<<<<<< HEAD
 [Weather App Logo] (Logo.PNG)
+=======
+![Weather App Logo] [clouds.png](clouds.png)
+>>>>>>> 38730eef33f2a412dff03daab4261964ba044016
