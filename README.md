@@ -50,6 +50,7 @@ To run the Weather Application locally, follow these steps:
 ## Acknowledgments
 Thank you for visiting the Weather Application repository! If you have any questions or suggestions, please feel free to reach out to us through the contact information provided in the repository.
 
-[Weather App Logo] (Logo.PNG)
+![Weather App Screenshot](Logo.PNG)
+
 
 
