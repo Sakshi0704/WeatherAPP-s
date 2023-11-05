@@ -29,7 +29,7 @@ Welcome to the Weather Application! This project is a web-based application that
 To run the Weather Application locally, follow these steps:
 
 1. Clone the repository:
-        git clone : (https://github.com/Sakshi0704/WeatherAPP-s/tree/main)
+      (https://github.com/Sakshi0704/WeatherAPP-s/tree/main)
 
 3. Open the project in your preferred code editor.
 
