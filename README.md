@@ -48,6 +48,6 @@ To run the Weather Application locally, follow these steps:
 5. Enjoy accessing real-time weather information for your chosen location!
 
 ## Acknowledgments
-    Thank you for visiting the Weather Application repository! If you have any questions or suggestions, please feel free to reach out to us through the contact information provided in the repository.
+Thank you for visiting the Weather Application repository! If you have any questions or suggestions, please feel free to reach out to us through the contact information provided in the repository.
 
 ![Weather App Logo] (clouds.png)
