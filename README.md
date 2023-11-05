@@ -6,7 +6,7 @@ Welcome to the Weather Application! This project is a web-based application that
 
 ## Live Demo
 
-[Live Demo](https://your-weather-app-demo-url.com)
+[Live Demo]([https://your-weather-app-demo-url.co](https://weatherapp-s.netlify.app/))
 
 ## Features
 
